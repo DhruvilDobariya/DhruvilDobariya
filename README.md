@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhruvilDobariya
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on Girl😜
+- 💞️ I’m looking to collaborate with Girl😜
 - 📫 How to reach me at Linkedin : "linkedin.com/in/dhruvil-dobariya-240600209"
 
 <!---
